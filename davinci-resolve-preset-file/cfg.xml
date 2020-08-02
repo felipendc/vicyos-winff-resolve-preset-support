@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <unix ffmpeg="/usr/bin/ffmpeg" ffplay="/usr/bin/ffplay" terminal="/usr/bin/gnome-terminal" termoptions="-x"/>
+  <general pause="true" displaycmdline="false" playsound="true"/>
+</CONFIG>
